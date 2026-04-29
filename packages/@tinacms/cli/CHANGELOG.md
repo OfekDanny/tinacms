@@ -1,5 +1,17 @@
 # tinacms-cli
 
+## 2.2.6
+
+### Patch Changes
+
+- Updated dependencies [[`28b869a`](https://github.com/tinacms/tinacms/commit/28b869a0d2c9b2a608e1076b6dea24bd3e01ac31)]:
+  - tinacms@3.7.6
+  - @tinacms/graphql@2.3.0
+  - @tinacms/metrics@2.0.1
+  - @tinacms/schema-tools@2.7.3
+  - @tinacms/search@1.2.12
+  - @tinacms/app@2.4.6
+
 ## 2.2.5
 
 ### Patch Changes

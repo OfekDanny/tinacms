@@ -1,5 +1,16 @@
 # tinacms
 
+## 3.7.6
+
+### Patch Changes
+
+- [#6752](https://github.com/tinacms/tinacms/pull/6752) [`28b869a`](https://github.com/tinacms/tinacms/commit/28b869a0d2c9b2a608e1076b6dea24bd3e01ac31) Thanks [@isaaclombardssw](https://github.com/isaaclombardssw)! - feat(tinacms): show content file path on breadcrumb hover
+
+- Updated dependencies []:
+  - @tinacms/mdx@2.1.3
+  - @tinacms/schema-tools@2.7.3
+  - @tinacms/search@1.2.12
+
 ## 3.7.5
 
 ### Patch Changes
